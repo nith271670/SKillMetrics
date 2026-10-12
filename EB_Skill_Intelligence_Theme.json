@@ -1,0 +1,46 @@
+{
+  "name": "EB Skill Intelligence",
+  "dataColors": [
+    "#9ACD32",
+    "#12344D",
+    "#2E7D32",
+    "#5B7C99",
+    "#A7B7C7",
+    "#D4E157",
+    "#4CAF50",
+    "#263238",
+    "#78909C",
+    "#ECEFF1"
+  ],
+  "background": "#F5F7F8",
+  "foreground": "#12344D",
+  "tableAccent": "#9ACD32",
+  "good": "#2E7D32",
+  "neutral": "#FBC02D",
+  "bad": "#C62828",
+  "maximum": "#2E7D32",
+  "minimum": "#C62828",
+  "center": "#FBC02D",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Aptos",
+      "color": "#12344D"
+    },
+    "title": {
+      "fontSize": 16,
+      "fontFace": "Aptos Display",
+      "color": "#12344D"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Aptos",
+      "color": "#12344D"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Aptos",
+      "color": "#455A64"
+    }
+  }
+}
